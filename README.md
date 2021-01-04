@@ -10,6 +10,6 @@ My Github is at
 ### Growth Mindset
 how to stay in a growth mindset. here are 3 examples
 A growth mindset is about accepting where you are and being willing to stay open to learning.  
-*1 Stay possitive
-*2 I believe
-*3 Ask for help
+1 Stay possitive
+2 I believe
+3 Ask for help
