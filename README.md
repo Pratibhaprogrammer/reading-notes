@@ -15,7 +15,8 @@ A growth mindset is about accepting where you are and being willing to stay open
 3. Ask for help
 
 ## Markdown features
-**bold**
-+i italic
-**Bold and _nested_ italic**
-~~StrikethroughD~~
+1. **bold**
+2.+i italic
+3.**Bold and _nested_ italic**
+4.~~StrikethroughD~~
+5. ***All bold and italic***
