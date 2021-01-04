@@ -13,3 +13,9 @@ A growth mindset is about accepting where you are and being willing to stay open
 1. Stay possitive
 2. I believe
 3. Ask for help
+
+## Markdown features
+**bold**
++i italic
+**Bold and _nested_ italic**
+~~StrikethroughD~~
