@@ -12,3 +12,6 @@ the # is used for headers.  you can change the size according to the number of #
 - * *'s or _ _'s are used to create *italics*
 - ** ** 's or __ __'s are used to **bold**
 - you can comnine these  **for _more_ effect**
+
+# Images 
+[yoga girl]()
