@@ -13,5 +13,9 @@ the # is used for headers.  you can change the size according to the number of #
 - ** ** 's or __ __'s are used to **bold**
 - you can comnine these  **for _more_ effect**
 
-# Images 
-[yoga girl](https://post.healthline.com/wp-content/uploads/2019/09/Female_Yoga_732x549-thumbnail.jpg)
+# Links
+[name](link)
+[warrior pose](https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F35%2F2018%2F03%2F03221219%2Fhow-to-do-warrior-i-pose-yoga.jpg)
+
+# Images
+[warrior pose](https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F35%2F2018%2F03%2F03221219%2Fhow-to-do-warrior-i-pose-yoga.jpg)
