@@ -20,3 +20,9 @@ A growth mindset is about accepting where you are and being willing to stay open
 3. **Bold and _nested_ italic**
 4. ~~StrikethroughD~~
 5. ***All bold and italic***
+
+### table of contents
+- [reading notes class 1](notes01.md)
+- [reading notes class 2](notes02.md)
+- [reading notes class 3](notes03.md)
+- [reading notes for class 4](notes04.md)
