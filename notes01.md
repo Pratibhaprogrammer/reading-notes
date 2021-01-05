@@ -14,4 +14,4 @@ the # is used for headers.  you can change the size according to the number of #
 - you can comnine these  **for _more_ effect**
 
 # Images 
-[yoga girl]()
+[yoga girl](https://post.healthline.com/wp-content/uploads/2019/09/Female_Yoga_732x549-thumbnail.jpg)
