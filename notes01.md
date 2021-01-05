@@ -9,6 +9,6 @@ the # is used for headers.  you can change the size according to the number of #
 - ### HEADER 3#'S
 
 # Emphasis
-* *'s are used to create *italics*
-** ** are used to **bold**
-**they can also be *combined* **
+- * *'s are used to create *italics*
+- ** ** are used to **bold**
+- **they can also be *combined***
