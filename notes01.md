@@ -4,5 +4,6 @@ Mark down is used to style and format text for the web without having to use pro
 
 # headers
 the # is used for headers.  you can change the size according to the number of #'s you use. 
-- # HEADING 
-
+- # HEADING 1#'S
+- ## HEADING 2#'S
+-### HEADING 3#'S
