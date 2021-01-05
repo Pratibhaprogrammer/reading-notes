@@ -17,3 +17,5 @@ the # is used for headers.  you can change the size according to the number of #
 - `<[name](link)>`
 - [warrior pose](https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F35%2F2018%2F03%2F03221219%2Fhow-to-do-warrior-i-pose-yoga.jpg)
 
+# images
+![warrior pose](https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F35%2F2018%2F03%2F03221219%2Fhow-to-do-warrior-i-pose-yoga.jpg)
