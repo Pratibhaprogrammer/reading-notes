@@ -25,6 +25,5 @@ A growth mindset is about accepting where you are and being willing to stay open
 - [reading notes class 1](notes01.md)
 - [reading notes class 2](notes02.md)
 - [reading notes class 3](notes03.md)
-- [reading notes for class 4(notes04.md)
-- [reading notes for class 5]
-(notes05.md)
+- [reading notes for class 4](notes04.md)
+- [reading notes for class 5](notes05.md)
