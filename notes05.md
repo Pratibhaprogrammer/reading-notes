@@ -45,7 +45,26 @@ ID, Class, tag
 # Java script
 -adds function to your site.  like the electrical in your house.  buttons, movement, ect...
 - object oriented language
-- generally used on back end of your site to effect change on the fron end
+- generally used on back end of your site to effect change on the fron end 
+- a script is a series of instructions that a computer can follow one by one.  each instruction or step is known as a statement.  statements always end with a ;
+- all the lines in green are a statement. 
+- pink {}'s indicate a block (each block could could contain many more statements)
+- The code in purple determines which code should run
+- comments explain what the code does /* comment */ is for multiple lines, // is for a single line. Multi line comments are pink, single line is gray
+
+# variables
+- sort of a place holder for information.  it stores bits of info 
+- to declare a variable use var. var is a keyword
+- the variable always needs a name or identifier.  if the name is more than one word it is usually written in camelCase
+- once you create the variable you can tell it what info you want it to store. this is the value. quantity = 3;
+- the = is an assignment operator.  it says that you are going to assign value to the variable.
+# data types 
+- numeric; handles numbers.  for tasks that involve counting or calculating sums 
+- string data; consists of letters and other characters. enclosed with '' 'string'.  these are used when working with text
+- boolean; True/false or on/off.  
+- these are helpful when determining which part of a script should run. 
+
+
 
 
 # Java
