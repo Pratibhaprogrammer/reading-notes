@@ -55,3 +55,4 @@ A growth mindset is about accepting where you are and being willing to stay open
 
 
 
+
