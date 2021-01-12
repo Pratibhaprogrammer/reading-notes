@@ -90,3 +90,5 @@ src="httpblablablaimalinktoapage">
 - &lt; or &#60; would make "<" appear
 
 
+## header and footer
+- <header> <footer> : can be used as the main header and footer that appears at the top or bottom of  every page on the site.  or a header or footer for an individual <article> or <section> within the page

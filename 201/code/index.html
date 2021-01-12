@@ -1,0 +1,81 @@
+<!DOCTYPE HTML>
+<html>
+
+  <head>
+    <!-- Is not rendered in the brower but is there to provide meta data about the content we are showing -->
+    <style> 
+      /* starts with an element to select, key value pairs for specific element properties */
+      body {
+        color: rgb(255, 0, 200)
+      }
+      li {border-width: thin; 
+          border-color:steelblue;
+          border-style:dashed}
+          h1 {background-color: teal;}
+          
+    </style>
+
+  </head>
+
+  <body>
+   <h1>Class 1 lab</h1>
+   <!--includes all the things that we see on the screen --> 
+   <p style=color:green;background-color:aquamarine;>What is your name?</p> 
+   <p style=color:bisque;background-color:blue>What is your favorite color?</p>
+   <p style=color:red;background-color:violet>what is your favorite food?</p>
+   <p style= color:cornflowerblue;background-color:darkgreen>What country do you live in?</p>
+    <ul>
+      <!-- unordered list -->
+        <li>
+          <!-- list item-->
+          item one
+          
+        </li>
+        <li>
+          item two
+        </li>
+    </ul>
+    <ol>
+      <!-- ordered list-->
+      <li> these ones start with numbers</li>
+    </ol>
+   <h2>level 2, you can have more of these.  they go all the way to h6 </h2>
+   <h6>level 6 heading</h6> <!--this one is pretty small-->
+
+   <script>
+      
+      var name = prompt("what is your name?");
+      var response1 = 'your name is: ';
+      //display data to the user
+      alert(response1 + name);
+      console.log('the users name is' + name);
+      
+      var food = prompt('What is your favorite food?');
+      var response2 = ' your favorite food is: ';
+      alert(response2 + food);
+      console.log('the users favorite food is' + food);
+
+      var color = prompt ('what is your favorite color?');
+      var response3 = ' your favorite color is: ';
+      alert(response3 + color)
+      //log data to your developer console
+      console.log('the users favorite color is: ' + color);
+
+      var country = prompt('what country do you live in?');
+      var response4 = ' you live in: ';
+      alert(response4 + country);
+      console.log('the user lives in' + country);
+
+      var hello = 'Greetings! '
+      alert(hello + name + response2 + food + response3 + color + response4 + country)
+      console.log()
+    
+      
+
+
+      
+   </script>
+
+  </body>
+
+</html>
