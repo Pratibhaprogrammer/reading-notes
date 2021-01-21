@@ -6,7 +6,7 @@
 - designers keep pages within 960-1000 pixels wide, and indicate what the site is about within the top 600px 9to demonstrate it's relevance without scrolling)
 - grids help create professional and flixible designs
 - css Frameworks provide rules for common tasks
-- you can include multiple css files in one page
+- you can include multiple css files in one pages
 
 
 # Code Review
