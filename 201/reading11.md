@@ -34,4 +34,23 @@
       - a lot of this stuff is calculated already by hosting services.  
     - what do you want to do with this data and what questions are you asking?
       - Do I want people to only spend 3-10 seconds on a specific page?
+
+## user interaction continues
+- HTML vide0/audio
+  - native support in html
+  - host vidio and audio content on the web( in the cloud)
+  - This content can be rendered / listened to via HTML
+
+  ```html
+  <video src="path/to/video.file">
+  <audio src="path/to/audio.file">
+
+  <video controls volume="0.5" autoplay muted>
+    <source src="path/to/a/video.file>
+    <source src="path/to/another/video.file">
+    <!-- if one source element is unsupported you can list another that hopefully, the first one will be used-->
+    </video>
+
+
+  ```
   
