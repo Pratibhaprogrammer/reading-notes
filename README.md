@@ -47,6 +47,23 @@ A growth mindset is about accepting where you are and being willing to stay open
 - [reading notes 14](/201/reading14.md)
 - [reading notes 15](/201/reading15.md)
 
+### Table of contents for code 301
+- [reading notes 1](/301/reading1.md)
+- [reading notes2](/301/reading2.md)
+- [reading notes 3](/301/reading3.md)
+- [reading notes 4](/301/reading4.md)
+- [reading notes 5](/301/reading5.md)
+- [reading notes 6](/301/reading6.md)
+- [reading notes 7](/301/reading7.md)
+- [reading notes 8](/301/reading8.md)
+- [reading notes 9](/301/reading9.md)
+- [reading notes 10](/301/reading10.md)
+- [reading notes 11](/301/reading11.md)
+- [reading notes 12](/301/reading12.md)
+- [reading notes 13](/301/reading13.md)
+- [reading notes 14](/301/reading14.md)
+- [reading notes 15](/301/reading15.md)
+
 
 
 
