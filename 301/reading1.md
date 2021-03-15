@@ -93,5 +93,8 @@ ReactDOM.render(
   document.getElementById('root')
 );>
 
-
-
+[link1](React Tutorial through ‘Passing Data Through Props’)
+[link2](React Docs - hello world)
+[link3](React Docs - introducing JSX)
+[link4](React Docs - rendering elements)
+[link5](React Docs - Components and props)
