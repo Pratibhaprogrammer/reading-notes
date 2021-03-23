@@ -8,7 +8,7 @@ REST, or REpresentational State Transfer, is an architectural style for providin
 - This was an aritcle about researching what makes up the perfect team.  The gist that I got from this was that it really depends on the group.  It is important that we feel seen and heard, and that our personal needs are met.  when we feel safe in a group we are more capeable of making meaninful contributions.  
 - [The quest to build the perfect team](https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html)
 
-[Geocoding API Docs](Geocoding API Docs)
-[Weather Bit API Docs](Weather Bit API Docs)
-[Yelp API Docs](https://www.yelp.com/developers/documentation/v3/business_search)
-[The Movie DB API Docs](https://developers.themoviedb.org/3/getting-started/introduction)
+- [Geocoding API Docs](https://locationiq.com/)
+- [Weather Bit API Docs](https://www.weatherbit.io/)
+- [Yelp API Docs](https://www.yelp.com/developers/documentation/v3/business_search)
+- [The Movie DB API Docs](https://developers.themoviedb.org/3/getting-started/introduction)
