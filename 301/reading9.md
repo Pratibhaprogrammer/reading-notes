@@ -32,10 +32,11 @@ calculateArea(10, PI); // returns 314.0
 
 ## pure function benefits
 - The code's easier to test. We don't need to mock anything. So we can unit test pure functions with different contexts
-  ```
-  Given a parameter A → expect the function to return value B
-Given a parameter C → expect the function to return value D
-```
+  
+  - Given a parameter A → expect the function to return value B
+  - Given a parameter C → expect the function to return value D
+
+
 
 ## immutabitlity - unchanging over time or unable to be changed. 
 - When data is immutable, its state cannot change after it’s created. If you want to change an immutable object, you can’t. Instead, you create a new object with the new value.
